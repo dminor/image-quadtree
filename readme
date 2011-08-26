@@ -1,0 +1,1 @@
+Class to build a quadtree based upon combining regions of identical values in an image.
